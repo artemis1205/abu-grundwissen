@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css' 
+import '../styles/globals.css'
 import One from '../public/1.png';
 import Three from '../public/9.png';
 import Four from '../public/4.png';
